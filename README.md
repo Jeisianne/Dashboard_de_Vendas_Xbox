@@ -1,6 +1,8 @@
 # Dashboard de Vendas da Xbox
 Respondendo perguntas de negócio com Dashboard.
 
+Arquivo na pasta -> Base_Xbox.xlsx
+
 Usei o método de organização "ABCD" que aprendi com o professor Felipão da DIO, que é para
 não poluir o dashboard com coisas complexas de mais ou talvez desnecessárias, mantendo
 a praticidade, padronização e fácil compreensão.
